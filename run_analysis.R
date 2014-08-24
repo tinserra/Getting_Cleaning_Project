@@ -1,4 +1,4 @@
-setwd("C:/Users/Thiago Inserra/Desktop/Coursera")
+setwd("C:/Users/Thiago Inserra/Desktop/Coursera/Getting_Cleaning_Project")
 
 ## Whether to create a subdirectory:
 if (!file.exists("UCI HAR Dataset")) {
